@@ -126,7 +126,7 @@ h6 {
   background: #fff;
   z-index: 997;
   padding: 15px 0;
-  border-bottom: 1px solid #e6f2fb;
+  border-bottom: 1px solid #00000042;
 }
 
 #header.header-scrolled {
@@ -2177,4 +2177,10 @@ select {
 
 .header-font-tribune {
   font-family: 'TSB Serif' !important;
+}
+
+.pricing-item {
+border-radius: 50px;
+background: #55b9f31f;
+box-shadow: 20px 20px 60px #489dcf4f, -20px -20px 60px #62d5ff00; 
 }
