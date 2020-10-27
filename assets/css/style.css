@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #469fdf;
+  color: #1e72b0;
   text-decoration: none;
 }
 
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top i:hover {
-  background: #3e9bdd;
+  background: #1e72b0;
   color: #fff;
 }
 
@@ -191,7 +191,7 @@ h6 {
 .nav-menu a:hover,
 .nav-menu .active>a,
 .nav-menu li:hover>a {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 .nav-menu .drop-down ul {
@@ -231,7 +231,7 @@ h6 {
 .nav-menu .drop-down ul a:hover,
 .nav-menu .drop-down ul .active>a,
 .nav-menu .drop-down ul li:hover>a {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 .nav-menu .drop-down>a:after {
@@ -291,7 +291,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #2079b8;
+  background: #1e72b0;
   color: #fff;
 }
 
@@ -357,7 +357,7 @@ h6 {
 .mobile-nav a:hover,
 .mobile-nav .active>a,
 .mobile-nav li:hover>a {
-  color: #2487ce;
+  color: #1e72b0;
   text-decoration: none;
 }
 
@@ -468,7 +468,7 @@ h6 {
 }
 
 #hero .btn-get-started:hover {
-  background: #3194db;
+  background: #1e72b0;
 }
 
 #hero .icon-boxes {
@@ -518,7 +518,7 @@ h6 {
 }
 
 #hero .icon-box:hover .title a {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 @media (min-width: 1024px) {
@@ -633,7 +633,7 @@ section {
 }
 
 .about .content .btn-learn-more:hover {
-  background: #2487ce;
+  background: #1e72b0;
   color: #fff;
   text-decoration: none;
 }
@@ -755,7 +755,7 @@ section {
 }
 
 .about-video .play-btn:hover::after {
-  border-left: 15px solid #2487ce;
+  border-left: 15px solid #1e72b0;
   transform: scale(20);
 }
 
@@ -1092,7 +1092,7 @@ section {
 
 .cta .cta-btn:hover {
   background: #fff;
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 /*--------------------------------------------------------------
@@ -1126,7 +1126,7 @@ section {
 
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -1288,7 +1288,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 .team .member .social i {
@@ -1405,7 +1405,7 @@ section {
 }
 
 .pricing .box .btn-buy:hover {
-  background: #2487ce;
+  background: #1e72b0;
   color: #fff;
 }
 
@@ -1435,7 +1435,7 @@ section {
 
 .pricing .featured .btn-buy:hover {
   background: #fff;
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 /*--------------------------------------------------------------
@@ -1502,7 +1502,7 @@ section {
 }
 
 .faq .faq-list a.collapsed:hover {
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 .faq .faq-list a.collapsed .icon-show {
@@ -1564,7 +1564,7 @@ section {
 .contact .info .email:hover i,
 .contact .info .address:hover i,
 .contact .info .phone:hover i {
-  background: #2487ce;
+  background: #1e72b0;
   color: #fff;
 }
 
@@ -1633,7 +1633,7 @@ section {
 
 .contact .php-email-form input:focus,
 .contact .php-email-form textarea:focus {
-  border-color: #2487ce;
+  border-color: #1e72b0;
 }
 
 .contact .php-email-form input {
@@ -1654,7 +1654,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"]:hover {
-  background: #3194db;
+  background: #1e72b0;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1876,7 +1876,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 2px;
-  color: #2487ce;
+  color: #1e72b0;
   font-size: 18px;
   line-height: 1;
 }
@@ -1900,7 +1900,7 @@ section {
 
 #footer .footer-top .footer-links ul a:hover {
   text-decoration: none;
-  color: #2487ce;
+  color: #1e72b0;
 }
 
 #footer .footer-newsletter {
@@ -1973,7 +1973,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #3194db;
+  background: #1e72b0;
   color: #fff;
   text-decoration: none;
 }
